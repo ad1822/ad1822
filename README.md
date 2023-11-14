@@ -1,6 +1,6 @@
 Hi there! I'm AYUSH. 👋
 
-Reach out me to:
+📫 How to reach me ...
 <br>ayushdumasia00@gmail.com 
 
 
