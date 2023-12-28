@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Dumasia</h1>
 <h3 align="center">A Passionate Computer Science Student</h3>
 <h4>Fronted Developer</h4>
-- 📫 How to reach me **ayushdumasia00@gmail.com**
+- 📫 How to reach me ayushdumasia00@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
