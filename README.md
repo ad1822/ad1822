@@ -1,10 +1,8 @@
 <h1 align="left">About me</h1>
 
-###
+
 
 <p align="left">📚 I'm currently learning  : <br>MERN Stack</p>
-
-###
 
 <h2 align="left">🌐 Socials:</h2>
 <div align="left">
@@ -54,6 +52,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AyushDumasia/AyushDumasia/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AyushDumasia/AyushDumasia/output/snake.svg" alt="" />
 
 ###
