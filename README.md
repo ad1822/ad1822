@@ -2,7 +2,7 @@
 
 
 
-<p align="left">📚 I'm currently learning  : <br>MERN Stack</p>
+<p align="left">📚 I'm currently learning  : <br>Node.JS</p>
 
 <h2 align="left">🌐 Socials:</h2>
 <div align="left">
@@ -16,11 +16,10 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
-###
+
 
 <h1 align="left">💻 Teck Stack:</h1>
 
-###
 
 <div align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
