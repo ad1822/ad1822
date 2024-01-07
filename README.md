@@ -1,18 +1,16 @@
 <h1 align="left">About me</h1>
 
-###
 
 <p align="left">📚 I'm currently learning  : <br>Express.JS</p>
 
-###
+
 
 <h2 align="left">🌐 Socials:</h2>
 
-###
 
 <h1 align="left">💻 Teck Stack:</h1>
 
-###
+
 
 <div align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
@@ -46,14 +44,13 @@
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/AyushDumasia/AyushDumasia/output/snake.svg" alt="Snake animation" />
 
-###
+
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AyushDumasia&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+
