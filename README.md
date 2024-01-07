@@ -8,7 +8,7 @@
 <h2 align="left">🌐 Socials:</h2>
 
 
-<h1 align="left">💻 Teck Stack:</h1>
+<h1 align="left">💻 Tech Stack:</h1>
 
 
 
