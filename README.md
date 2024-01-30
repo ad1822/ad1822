@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning  : <br>Express.JS</p>
+
 
 ###
 
