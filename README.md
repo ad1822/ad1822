@@ -1,4 +1,5 @@
 
+[![](https://visitcount.itsvg.in/api?id=AyushDumasia&label=Profile%20Views&color=0&icon=8&pretty=false)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushdumasia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AyushDumasia18) 
 
