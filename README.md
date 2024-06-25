@@ -1,24 +1,37 @@
-<div style="text-align: center;">
+<div style="text-align: center">
 
 ![Description of the image](/assests/pngegg.png)
 
 </div>
 
-```json
+<!-- <h1 align="center">
+  <img src="https://raw.githubusercontent.com/AyushDumasia/AyushDumasia/main/name.svg"  />
+</h1> -->
+
+<style>
+  .json-key {
+    color: #4F9D9D;
+  }
+  .json-value {
+    color: #D15A86;
+  }
+</style>
+
+<pre>
 {
-  "name": "Ayush Dumasia",
-  "bio": "Hey there! I'm Ayush Dumasia, a third-year Computer Science student with an insatiable passion for full-stack development. Over the past 10 months, I've been immersed in crafting dynamic and responsive web applications. I'm fueled by the thrill of mastering new technologies and tackling intricate challenges, always eager to collaborate on cutting-edge and impactful projects.",
-  "location": "🇮🇳",
-  "experience": "10 months in the coding trenches",
-  "currentWork": "🔭 Currently diving deep into something truly exciting!",
-  "askMeAbout": "💬 Curious about Javascript/Typescript? Fire away!",
-  "hobby": "When I'm not coding, you'll find me dominating in Counter-Strike 🎮"
+  "<span class='json-key'>name</span>": "<span class='json-value'>Ayush Dumasia</span>",
+  "<span class='json-key'>bio</span>": "<span class='json-value'>Hey there! I'm Ayush Dumasia, a third-year Computer Science student with an insatiable passion for full-stack development. Over the past 10 months, I've been immersed in crafting dynamic and responsive web applications. I'm fueled by the thrill of mastering new technologies and tackling intricate challenges, always eager to collaborate on cutting-edge and impactful projects.</span>",
+  "<span class='json-key'>location</span>": "<span class='json-value'>🇮🇳</span>",
+  "<span class='json-key'>experience</span>": "<span class='json-value'>10 months in the coding trenches</span>",
+  "<span class='json-key'>currentWork</span>": "<span class='json-value'>🔭 Currently diving deep into something truly exciting!</span>",
+  "<span class='json-key'>askMeAbout</span>": "<span class='json-value'>💬 Curious about Javascript/Typescript? Fire away!</span>",
+  "<span class='json-key'>hobby</span>": "<span class='json-value'>When I'm not coding, you'll find me dominating in Counter-Strike 🎮</span>"
 }
-```
+</pre>
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushdumasia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AyushDumasia18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushdumasia) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AyushDumasia18)
 
 ## 💻 Tech Stack:
 
