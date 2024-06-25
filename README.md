@@ -24,6 +24,28 @@ const me: AyushDumasia = {
   experience: "10 months in the coding trenches",
   currentWork: "🔭Currently diving deep into something truly exciting!",
   askMeAbout: "💬Curious about JavaScript/TypeScript",
+  skills: {
+    DSA: ["C++", "Java"],
+    BackendDevelopment: [
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "Express.js",
+      "Nest.js",
+      "JWT",
+      "Passport.js",
+    ],
+    FrontendDevelopment: [
+      "React.js",
+      "Next.js",
+      "TailwindCSS",
+      "Chakra.js",
+      "AntDesign",
+    ],
+    Database: ["MySQL", "MongoDB", "PostgreSQL"],
+    BaaS: ["Prisma", "Firebase", "Appwrite"],
+    DeployPlatform: ["Vercel", "Netlify", "Render"],
+  },
   hobby: "When I'm not coding, you'll find me dominating in Counter-Strike 🎮",
 };
 ```
