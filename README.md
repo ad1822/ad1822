@@ -6,11 +6,11 @@
 </p> -->
 </div>
 
-<div style="text-align: center">
+<!-- <div style="text-align: center"> -->
 
 ![Ayush Dumasia](/name.svg)
 
-</div>
+<!-- </div> -->
 
 ## 🌐 Socials:
 
