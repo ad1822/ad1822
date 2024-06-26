@@ -1,7 +1,13 @@
-<p align="center">
-  <img src="/name.svg" alt="Ayush Dumasia" style="width: 45%;"/>
-  <img src="/assests/pngegg2.png" alt="Description of the image" style="width: 45%;"/>
-</p>
+<table align="center">
+  <tr>
+    <td style="vertical-align: top;">
+      <img src="/name.svg" alt="Ayush Dumasia" style="width: 300px;"/>
+    </td>
+    <td>
+      <img src="/assests/pngegg2.png" alt="Description of the image" style="width: 300px;"/>
+    </td>
+  </tr>
+</table>
 
 # 🌐 Socials:
 
