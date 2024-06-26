@@ -60,7 +60,7 @@ const me: AyushDumasia = {
 
 <h2>👇 <strong>Enter this in your console to connect with me</strong></h3>
 
-```javascript
+```bash
 npx dev-ayush
 ```
 
