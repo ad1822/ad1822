@@ -5,7 +5,7 @@
 
 </div>
 
-![Description of the image](/assests/pngegg.png)
+![Description of the image](/assests/pngegg2.png)
 
 </div>
 
