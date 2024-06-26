@@ -1,13 +1,16 @@
-<table align="center">
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="/name.svg" alt="Ayush Dumasia" style="width: 300px;"/>
-    </td>
-    <td>
-      <img src="/assests/pngegg2.png" alt="Description of the image" style="width: 300px;"/>
-    </td>
-  </tr>
-</table>
+<!-- <div style="text-align: center">
+<p>
+
+![Description of the image](/assests/pngegg.png)
+
+</p> -->
+<!-- </div> -->
+
+<!-- <div style="text-align: center"> -->
+
+![Ayush Dumasia](/name.svg)
+
+<!-- </div> -->
 
 # 🌐 Socials:
 
