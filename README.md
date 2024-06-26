@@ -1,13 +1,7 @@
-<div style="display : flex">
-<div style="text-align: center">
-
-![Ayush Dumasia](/name.svg)
-
-</div>
-
-![Description of the image](/assests/pngegg2.png)
-
-</div>
+<p align="center">
+  <img src="/name.svg" alt="Ayush Dumasia" style="width: 45%;"/>
+  <img src="/assests/pngegg2.png" alt="Description of the image" style="width: 45%;"/>
+</p>
 
 # 🌐 Socials:
 
