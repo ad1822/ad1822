@@ -94,6 +94,7 @@ npx dev-ayush
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AyushDumasia&theme=dark&hide_border=false)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushDumasia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
+<<<<<<< HEAD
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushDumasia&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushDumasia&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)1 -->
@@ -103,3 +104,9 @@ npx dev-ayush
 <!-- <a href="https://stats.hyochan.dev/en/stats/HwangTaehyun"><img src="https://stats.hyochan.dev/api/github-stats?login=AyushDumasia" width="600" /></a> -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AyushDumasia&bg_color=292d3e&color=d8b0d6&line=a568a6&point=b8adad&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+=======
+<a href="https://stats.hyochan.dev/en/stats/HwangTaehyun"><img src="https://stats.hyochan.dev/api/github-stats?login=AyushDumasia" width="600" /></a>
+
+
+[![](https://visitcount.itsvg.in/api?id=AyushDumasia&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+>>>>>>> 71ab2f6af7138ed837797b16f29418bac56f5479
