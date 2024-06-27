@@ -14,18 +14,21 @@
 
 # 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushdumasia) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AyushDumasia18)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ayush012270) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushdumasia) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/PsychicCoder) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ayush-dumasia) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AyushDumasia18)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushDumasia)
+
+  <!-- experience: "10 months in the coding trenches", -->
 
 # 💫 About me:
 
 ```typescript
 const me: AyushDumasia = {
+  pronounce: "he/him",
   bio: `Hey there! I'm Ayush Dumasia, a third-year Computer Science student with an insatiable passion for full-stack development. Over the past 10 months, I've been immersed in crafting dynamic and responsive web applications. I'm fueled by the thrill of mastering new technologies and tackling intricate challenges, always eager to collaborate on cutting-edge and impactful projects.`,
-  experience: "10 months in the coding trenches",
   currentWork: "🔭Currently diving deep into something truly exciting!",
   askMeAbout: "💬Curious about JavaScript/TypeScript",
   skills: {
-    Language: ["C++", "Java", "JavaScript", "TypeScript", "Python"],
+    Language: ["C++", "Java", "JavaScript", "TypeScript", "Python", "MarkDown"],
     BackendDevelopment: [
       "Node.js",
       "Express.js",
@@ -37,7 +40,8 @@ const me: AyushDumasia = {
       "NPM",
       "YARN",
       "ZOD",
-      "Socket.js",
+      "Socket.io",
+      "Nodemon",
     ],
     FrontendDevelopment: [
       "React.js",
@@ -45,14 +49,30 @@ const me: AyushDumasia = {
       "TailwindCSS",
       "Chakra.js",
       "AntDesign",
+      "MUI",
       "Redux-Toolkit",
     ],
     Database: ["MySQL", "MongoDB", "PostgreSQL"],
     BaaS: ["Prisma", "Firebase", "Appwrite"],
-    DeployPlatform: ["Vercel", "Netlify", "Render"],
-    Other: ["Git", "GitHub", "Postman", "Linux", "CLI"],
+    DeployPlatform: ["Vercel", "Netlify", "Render", "AWS"],
+    Other: [
+      "Git",
+      "GitHub",
+      "Postman",
+      "Linux",
+      "CLI",
+      "VSCode",
+      "Figma",
+      "DOCKER",
+    ],
   },
-  hobby: "When I'm not coding, you'll find me dominating in Counter-Strike 🎮",
+  interest: [
+    "Web Development",
+    "Open Source",
+    "DSA",
+    "Programming",
+    "Tech News",
+  ],
 };
 ```
 
@@ -74,4 +94,12 @@ npx dev-ayush
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AyushDumasia&theme=dark&hide_border=false)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushDumasia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-<a href="https://stats.hyochan.dev/en/stats/HwangTaehyun"><img src="https://stats.hyochan.dev/api/github-stats?login=AyushDumasia" width="600" /></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushDumasia&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushDumasia&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)1 -->
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AyushDumasia&theme=material-palenight&hide_border=true)
+
+<!-- <a href="https://stats.hyochan.dev/en/stats/HwangTaehyun"><img src="https://stats.hyochan.dev/api/github-stats?login=AyushDumasia" width="600" /></a> -->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AyushDumasia&bg_color=292d3e&color=d8b0d6&line=a568a6&point=b8adad&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
