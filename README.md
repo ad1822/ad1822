@@ -10,6 +10,8 @@
 
 ![Ayush Dumasia](/name.svg)
 
+![Ayush Dumasia](https://res.cloudinary.com/dxrzskzvj/video/upload/v1720866788/obgutvhf50g0avthrvdy.mp4)
+
 <!-- </div> -->
 
 # 🌐 Socials:
