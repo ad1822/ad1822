@@ -23,7 +23,7 @@
 
   <!-- experience: "10 months in the coding trenches", -->
 
-# 💫 About me:
+# 👋 About me:
 
 ```typescript
 const me: AyushDumasia = {
