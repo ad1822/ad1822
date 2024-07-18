@@ -178,4 +178,12 @@ npx dev-ayush
 
 <!-- <a href="https://stats.hyochan.dev/en/stats/HwangTaehyun"><img src="https://stats.hyochan.dev/api/github-stats?login=AyushDumasia" width="600" /></a> -->
 
+
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31yifq6r7kvprjr75nmga6za2kie&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31yifq6r7kvprjr75nmga6za2kie&cover_image=true&theme=default&show_offline=false&background_color=000002&interchange=false&bar_color=53b14f&bar_color_cover=false)]]
+
+
+
+
 [![](https://visitcount.itsvg.in/api?id=AyushDumasia&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
