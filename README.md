@@ -166,7 +166,7 @@ npx dev-ayush
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AyushDumasia&theme=dark&hide_border=false)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushDumasia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaoticMorph&theme=material-palenight&show_icons=true&hide_border=true&count_private=true) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaoticMorph&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushDumasia&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)1 -->
 
