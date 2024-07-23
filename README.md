@@ -23,18 +23,14 @@
 
   <!-- experience: "10 months in the coding trenches", -->
 
-# 👋 About me:
+# 👋 About Me:
 
 ```typescript
 const me: AyushDumasia = {
   pronounce: "he | him",
-  bio: "👋 Hey there! I'm Ayush Dumasia,
+  bio: `👋 Hey there! I'm Ayush Dumasia, 
   a third-year Computer Science student with an insatiable passion for full-stack development.
-
-  🚀 Over the past 10 months, I've been immersed in crafting dynamic and responsive web applications.
-  I'm fueled by the thrill of mastering new technologies and tackling intricate challenges,
-  always eager to collaborate on cutting-edge and impactful projects.
-  ",
+  Always eager to collaborate on cutting-edge and impactful projects.`,
   currentWork: "🔭 Currently diving deep into something truly exciting!",
   askMeAbout: "💬 Curious about JavaScript/TypeScript",
   interest: [
@@ -44,7 +40,21 @@ const me: AyushDumasia = {
     "💻 Programming",
     "📰 Tech News",
   ],
+  funFacts: [
+    "🐧 Average Linux user",
+    "🦉 I'm a night owl",
+    "☕ Coffee enthusiast",
+    "🕹️ Avid gamer (Counter-Strike fan)",
+  ],
 };
+```
+
+### 🐧 Linux Tip :
+
+#### Did you know you can open a website from your terminal? Just type:
+
+```bash
+xdg-open https://github.com/chaoticMorph
 ```
 
 <!-- </br> -->
@@ -177,5 +187,7 @@ npx dev-ayush
 # [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chaoticMorph&bg_color=292d3e&color=d8b0d6&line=a568a6&point=b8adad&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- <a href="https://stats.hyochan.dev/en/stats/HwangTaehyun"><img src="https://stats.hyochan.dev/api/github-stats?login=AyushDumasia" width="600" /></a> -->
+
+[![Readme Quotes](https://dev-humor.vercel.app/api?type=verticle&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [![](https://visitcount.itsvg.in/api?id=AyushDumasia&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
