@@ -1,0 +1,35 @@
+name: Update README with Fortune Cow
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install fortune and cowsay
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fortune cowsay
+
+      - name: Generate fortune and update README
+        run: |
+          node server.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Update README with new fortune'
+          git push
