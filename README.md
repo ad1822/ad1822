@@ -12,6 +12,25 @@
 
 <!-- </div> -->
 
+```bash
+ayush@ayush-fedora ~$ cowsay -f tux "This man always sucks at programming but still he do everyday"
+
+ ______________________________________________________________
+< This man always sucks at programming >
+< but still he does it every day! 🐧 >
+ --------------------------------------------------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+    (|       | )
+    /'\_   _/`\
+    \___)=(___/
+
+```
+
 # 🌐 Socials:
 
 <!--
