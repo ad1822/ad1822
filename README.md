@@ -47,23 +47,24 @@ ayush@ayush-fedora ~$ cowsay -f tux "This man always sucks at programming but st
 ```typescript
 const me: AyushDumasia = {
   pronounce: "he | him",
-  bio: `👋 Hey there! I'm Ayush Dumasia, 
+  bio: `👋 Howdy! I'm Ayush Dumasia,
   a third-year Computer Science student with an insatiable passion for full-stack development.
   Always eager to collaborate on cutting-edge and impactful projects.`,
-  currentWork: "🔭 Currently diving deep into something truly exciting!",
-  askMeAbout: "💬 Curious about JavaScript/TypeScript",
+  currentWork:
+    "🔭 Currently diving deep into something so thrilling, even I can't sit still!",
+  askMeAbout: "💬 Curious about JavaScript/TypeScript (BTW, I don't reply)",
   interest: [
+    "🐧 Operating Systems",
     "🌐 Web Development",
     "📚 DSA",
-    "🐧 Open Source",
     "💻 Programming",
     "📰 Tech News",
   ],
   funFacts: [
-    "🐧 Average Linux user",
-    "🦉 I'm a night owl",
-    "☕ Coffee enthusiast",
-    "🕹️ Avid gamer (Counter-Strike fan)",
+    "🐧 Linux user because this penguin is just too adorable to resist",
+    "🦉 Night owl by nature",
+    "☕ Coffee enthusiast (but not too much)",
+    "🕹️ Avid gamer (Counter-Strike fan | 40 FPS Gamers)",
   ],
 };
 ```
