@@ -64,7 +64,6 @@ const me: AyushDumasia = {
     "🐧 Linux user because this penguin is just too adorable to resist",
     "🦉 Night owl by nature",
     "☕ Coffee enthusiast (but not too much)",
-    "🕹️ Avid gamer (Counter-Strike fan | 40 FPS Gamers)",
   ],
 };
 ```
@@ -74,7 +73,7 @@ const me: AyushDumasia = {
 #### Did you know you can open a website from your terminal? Just type:
 
 ```bash
-xdg-open https://github.com/chaoticMorph
+xdg-open https://ayush-dumasia.vercel.app/
 ```
 
 <!-- </br> -->
