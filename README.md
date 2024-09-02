@@ -8,7 +8,7 @@
 
 <!-- <div style="text-align: center"> -->
 
-![Ayush Dumasia](/name.svg)
+<!-- ![Ayush Dumasia](/name.svg) -->
 
 <!-- ![Image](/assests/linux-penguin.jpg) -->
 
