@@ -27,19 +27,18 @@ A **backend** engineer passionate about building **scalable systems**, **designi
 
 ``` -->
 
-┌────────────────────────────────────────────────────┐
-│  OS:           Arch Linux x86_64                   │
-│  Editor:       Neovim (LazyVim)                    │
-│  Languages:    C++, TypeScript, Go                 │
-├────────────────────────────────────────────────────┤
-│  Development:  Node.js, NestJS, Express            │
-│                PostgreSQL, MongoDB                 │
-├────────────────────────────────────────────────────┤
-│  DevOps:       Kubernetes, Docker, AWS             │
-│                Terraform, CI/CD, Linux, Networking │
-├────────────────────────────────────────────────────┤
-│  Mail:         ayushdumasia604@gmail.com           │
-└────────────────────────────────────────────────────┘
+   OS         : Arch Linux x86_64
+   Editor     : Neovim (LazyVim)
+   Languages  : C++, TypeScript, Go
+   -------------------------------------------
+   Backend    : Node.js, NestJS, Express
+   Database   : PostgreSQL, MongoDB
+   -------------------------------------------
+   DevOps     : Kubernetes, Docker, AWS
+               Terraform, CI/CD, Linux, Networking
+   -------------------------------------------
+   Email      : ayushdumasia604@gmail.com
+
 
 ```
 
