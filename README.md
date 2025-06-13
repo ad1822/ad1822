@@ -10,7 +10,7 @@ A **backend** engineer passionate about building **scalable systems**, **designi
 
 
 <!-- ![alt text](assests/final.png) -->
-```
+<!-- ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      OS:           Arch Linux x86_64
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      Editor:       Neovim (LazyVim)
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      Languages:    C++, TypeScript, Golang
@@ -24,6 +24,22 @@ A **backend** engineer passionate about building **scalable systems**, **designi
 ⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀
 ⠀⢀⣾⣿⣿⠿⠟⠛⠋⠉⠉⠀⠀⠀⠀⠀⠀⠉⠉⠙⠛⠻⠿⣿⣿⣷⡀⠀      Mail:         ayushdumasia00@gmai.com
 ⣠⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⣄
+
+``` -->
+
+┌────────────────────────────────────────────────────┐
+│  OS:           Arch Linux x86_64                   │
+│  Editor:       Neovim (LazyVim)                    │
+│  Languages:    C++, TypeScript, Go                 │
+├────────────────────────────────────────────────────┤
+│  Development:  Node.js, NestJS, Express            │
+│                PostgreSQL, MongoDB                 │
+├────────────────────────────────────────────────────┤
+│  DevOps:       Kubernetes, Docker, AWS             │
+│                Terraform, CI/CD, Linux, Networking │
+├────────────────────────────────────────────────────┤
+│  Mail:         ayushdumasia604@gmail.com           │
+└────────────────────────────────────────────────────┘
 
 ```
 
