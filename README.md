@@ -1,4 +1,4 @@
-#### Hey, I'm Ayush 👋
+## Hey, I'm Ayush 👋
 
 A **backend** engineer passionate about building **scalable systems**, **designing resilient** **infrastructure**,**CI/CD** ,**automating everything** that moves and contributing to **open source**.
 
