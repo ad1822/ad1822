@@ -1,6 +1,6 @@
 ## Hey, I'm Ayush 👋
 
-A **backend** engineer passionate about building **scalable systems**, **designing resilient** **infrastructure**,**CI/CD** ,**automating everything** that moves and contributing to **open source**.
+A **backend** engineer passionate about building **scalable systems**, **designing resilient** **infrastructure**, **CI/CD** , **automating everything** that moves and contributing to **open source**.
 
 - ⚙️ Currently exploring the depths of **System Design**
 - 🔨 Actively contributing to **FOSS projects**
