@@ -1,18 +1,18 @@
-## Hey, I'm Ayush 👋
+## Hey, I'm Ayush
 
 A **backend** engineer passionate about building **scalable systems**, **designing resilient** **infrastructure**, **CI/CD**, **automating everything** that moves and contributing to **open source**.
 
-- ⚙️ Currently exploring the depths of **System Design**
-- 🔨 Actively contributing to **FOSS projects**
-- 🐧 Obsessed with customizing my [dotfiles](https://github.com/ad1822/hyprdots) & [scripts](https://github.com/ad1822/dotsh)
+- Currently exploring the depths of **Backend Development** and **DevOps**
+- Actively contributing to **FOSS projects**
+- Obsessed with customizing my [dotfiles](https://github.com/ad1822/hyprdots) and [scripts](https://github.com/ad1822/dotsh)
 
 
 ```
    OS         : Arch Linux x86_64
-   Editor     : Neovim (LazyVim)
+   Editor     : Neovim
    Languages  : C++, TypeScript, Go
    -------------------------------------------
-   Backend    : Node.js, NestJS, Express
+   Backend    : Node.js, Express
    Database   : PostgreSQL, MongoDB
    -------------------------------------------
    DevOps     : Kubernetes, Docker, AWS
