@@ -7,7 +7,7 @@ A **backend** engineer passionate about building **scalable systems**, **designi
 - Obsessed with customizing my [dotfiles](https://github.com/ad1822/hyprdots) and [scripts](https://github.com/ad1822/dotsh)
 
 
-```
+```css
    OS         : Arch Linux x86_64
    Editor     : Neovim
    Languages  : C++, TypeScript, Go
