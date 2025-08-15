@@ -6,21 +6,19 @@ A **backend** engineer passionate about building **scalable systems**, **designi
 - Actively contributing to **FOSS projects**
 - Obsessed with customizing my [dotfiles](https://github.com/ad1822/hyprdots) and [scripts](https://github.com/ad1822/dotsh)
 
-
 ```css
-   OS         : Arch Linux x86_64
-   Editor     : Neovim
-   Languages  : C++, TypeScript, Go
-   -------------------------------------------
-   Backend    : Node.js, Express
-   Database   : PostgreSQL, MongoDB
-   -------------------------------------------
-   DevOps     : Kubernetes, Docker, AWS
-                Terraform, CI/CD, Linux, Networking
-   -------------------------------------------
-   Email      : ayushdumasia604@gmail.com
+OS         : Arch Linux x86_64
+Editor     : Neovim
+Languages  : C++, TypeScript, Go
+-------------------------------------------
+Backend    : Node.js, Express
+Database   : PostgreSQL, MongoDB
+-------------------------------------------
+DevOps     : Kubernetes, Docker, AWS
+            Terraform, CI/CD, Linux, Networking
+-------------------------------------------
+Email      : ayushdumasia604@gmail.com
 ```
-
 
 <!-- <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card">
