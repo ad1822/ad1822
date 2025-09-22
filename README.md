@@ -32,9 +32,8 @@ Contact   : ayushdumasia604@gmail.com
   </a>
 </p>
 
-```bash
-:q 
- ``` 
+![lualine](assests/lualine.png)
+
 
 <!-- <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card">
