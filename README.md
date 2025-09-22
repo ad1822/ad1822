@@ -32,7 +32,7 @@ Contact   : ayushdumasia604@gmail.com
   </a>
 </p>
 
-![lualine](assests/lualine.png)
+![lualine](assests/lualine-2.png)
 
 
 <!-- <p align="center">
