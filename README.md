@@ -4,8 +4,7 @@ A **backend engineer** passionate about building **scalable systems**,
 crafting **smooth developer workflows**, writing **scripts that automate life**,  
 and contributing to **open source**.
 
-- Exploring the depths of **Backend Development**
-- Actively contributing to **FOSS projects**
+- Exploring the depths of **Backend Development** and **System** 
 - Obsessively customizing my [dotfiles](https://github.com/ad1822/hyprdots) and [scripts](https://github.com/ad1822/dotsh)
 - Using [Neovim](https://github.com/ad1822/nvim.conf), Pressing some keybindings. Can't quit thought
 
@@ -19,12 +18,12 @@ Languages : C++, TypeScript, Go
 Backend   : Node.js, Gin
 Database  : PostgreSQL, MongoDB
 ───────────────────────────────────────────────
-Workflow  : Shell Scripting, Automation, Tooling
+Workflow  : Shell Scripting, Automation
 Contact   : ayushdumasia604@gmail.com
 ───────────────────────────────────────────────
 ```
 
-# Dev workflow tools
+### Dev workflow tools
 
 <p align="center">
   <a href="https://skillicons.dev">
