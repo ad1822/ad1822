@@ -1,8 +1,6 @@
 ### Hey, I'm Ayush
 
-A **backend engineer** passionate about building **scalable systems**,  
-crafting **smooth developer workflows**, writing **scripts that automate life**,  
-and contributing to **open source**.
+A **backend engineer** passionate about building **scalable systems**,  crafting **smooth developer workflows**, writing **scripts that automate life**,  and contributing to **open source**.
 
 - Exploring the depths of **Backend Development** and **System** 
 - Obsessively customizing my [dotfiles](https://github.com/ad1822/hyprdots) and [scripts](https://github.com/ad1822/dotsh)
