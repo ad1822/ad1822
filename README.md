@@ -4,7 +4,9 @@ A **backend engineer** passionate about building **scalable systems**,  crafting
 
 - Exploring the depths of **Backend Development** and **System** 
 - Obsessively customizing my [dotfiles](https://github.com/ad1822/hyprdots) and [scripts](https://github.com/ad1822/dotsh)
-- Using [Neovim](https://github.com/ad1822/nvim.conf), Pressing some keybindings. Can't quit thought
+- I use [Neovim](https://github.com/ad1822/nvim.conf) btw. can’t quit though.
+
+
 
 ```bash
 ad@arch / ~>
